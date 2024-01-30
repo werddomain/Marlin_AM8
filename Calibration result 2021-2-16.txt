@@ -1,0 +1,23 @@
+PID
+
+Recv:  bias: 112 d: 112 min: 197.80 max: 202.32 Ku: 63.02 Tu: 18.88
+Recv:  Classic PID
+Recv:  Kp: 37.81 Ki: 4.00 Kd: 89.26
+Recv: PID Autotune finished! Put the last Kp, Ki and Kd constants from below into Configuration.h
+Recv: #define DEFAULT_Kp 37.81
+Recv: #define DEFAULT_Ki 4.00
+Recv: #define DEFAULT_Kd 89.26
+Recv: ok
+
+Recv:  Kp: 65.30 Ki: 9.95 Kd: 285.58
+Recv: PID Autotune finished! Put the last Kp, Ki and Kd constants from below into Configuration.h
+Recv: #define DEFAULT_bedKp 65.30
+Recv: #define DEFAULT_bedKi 9.95
+Recv: #define DEFAULT_bedKd 285.58
+Recv: ok
+
+Recv: echo: M92 X100.00 Y100.00 Z400.00 E95.00
+108.54
+
+M92 E87.53
+99.69
